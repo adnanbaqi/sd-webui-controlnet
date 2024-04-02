@@ -1,0 +1,1 @@
+Module: inpaint_global_harmonious, Model: control_v11f1e_sd15_tile [a371b31b], Weight: 0.355, Resize Mode: Crop and Resize, Low Vram: False, Guidance Start: 0.35, Guidance End: 0.7, Pixel Perfect: True, Control Mode: Balanced, Hr Option: Both, Save Detected Map: True
