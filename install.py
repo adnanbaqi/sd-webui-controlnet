@@ -7,6 +7,11 @@ import platform
 from pathlib import Path
 from typing import Tuple, Optional
 
+#testing///////////////////////////////////////////////////////
+import warnings
+
+warnings.filterwarnings("ignore", category=UserWarning) 
+#testing///////////////////////////////////////////////////////
 
 repo_root = Path(__file__).parent
 main_req_file = repo_root / "requirements.txt"
